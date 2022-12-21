@@ -3,7 +3,7 @@ package jankinsP;
 import org.testng.annotations.Test;
 
 public class practice1 {
-	@Test(groups="smoke")
+	@Test
 	public void shivu() {
 	int x=10;
 	int y=20;
